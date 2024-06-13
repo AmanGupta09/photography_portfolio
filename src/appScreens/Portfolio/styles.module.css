@@ -1,6 +1,7 @@
-.mainContainer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: blue;
+.mainContainer {
+  display: flex;
+  /* justify-content: center;
+  align-items: center;
+  background-color: blue; */
 }
+
